@@ -23,6 +23,6 @@ pip install mechanize beautifulsoup4
 instructions
 ------------
 1. take the settings.py.example file and rename to settings.py
-2. edit settings.py to include the to watch, the that will be watched by a
-   torrent client, and your working directory
+2. edit settings.py to include the page to watch, the dir that will be watched
+   by a torrent client, and your working directory
 3. run from crontab
