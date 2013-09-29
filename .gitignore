@@ -37,3 +37,5 @@ nosetests.xml
 
 # Specifics
 *.list
+settings.py
+run.sh
