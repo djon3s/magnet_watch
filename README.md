@@ -1,7 +1,8 @@
 magnet_watch
 ============
 
-watch pages for new magnet links
+watch pages for new magnet links.
+
 example: if you have a page full of magnet links ordered chronologically by
 upload date and want to a new one when it appears, you can run this script.
 
